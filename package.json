@@ -1,0 +1,7 @@
+{
+  "name": "green-bites-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Green Bites on Netlify (site + order API)",
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
